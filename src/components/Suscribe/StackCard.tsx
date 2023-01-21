@@ -24,7 +24,7 @@ const StackCard = () => {
                             transaction_hour="1h 3m 34s"
                         />
                     </div>
-                    <div className="z-50 absolute transform -translate-x-8 -translate-y-16 rounded-lg bg-pink-500">
+                    <div className="z-40 absolute transform -translate-x-8 -translate-y-16 rounded-lg bg-pink-500">
                         <CardIemSuscribe
                             descr_left_1="Monument Blend"
                             descr_right_1="123ETH"

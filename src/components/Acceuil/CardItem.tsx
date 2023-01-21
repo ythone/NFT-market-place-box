@@ -20,7 +20,7 @@ const CardItem = ({ img1, img2, img3, img4, img5, title, price, hour }: props) =
                 {/*image*/}
                 <img className='h-100 object-contain' alt="home-pageGraphic" src="https://i.seadn.io/gae/0mUf80tXiyX765flp14NrFEoBxflLcx-10DGF4uqFHjylDyWfGmLmfKW5zjoeGnamCLKYfWqjchceoJ6LtZ8iydxJBRK5_XIga0q?auto=format&w=384" />
                  <div className='isolate flex items-start'>
-                 <Stackavatar />
+                 <Stackavatar circle_img_url_1={''} circle_img_url_2={''} circle_img_url_3={''} />
                  </div>
                 <div className='p-1'>
                     {/*heading*/}
